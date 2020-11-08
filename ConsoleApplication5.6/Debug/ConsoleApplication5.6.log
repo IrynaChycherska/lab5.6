@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.6.cpp
+C:\Users\Ira\source\repos\ConsoleApplication5.6\ConsoleApplication5.6\ConsoleApplication5.6.cpp(12,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ira\source\repos\ConsoleApplication5.6\ConsoleApplication5.6\ConsoleApplication5.6.cpp(12,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication5.6.vcxproj -> C:\Users\Ira\source\repos\ConsoleApplication5.6\Debug\ConsoleApplication5.6.exe
